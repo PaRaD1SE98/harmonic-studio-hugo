@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Roxo Blog on 和音社 | Harmonic Studio</title>
+    <title>和音社·动态 on 和音社 | Harmonic Studio</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Roxo Blog on 和音社 | Harmonic Studio</description>
+    <description>Recent content in 和音社·动态 on 和音社 | Harmonic Studio</description>
     <generator>Hugo</generator>
     <language>zh-hans</language>
     <lastBuildDate>Tue, 24 Dec 2019 13:45:06 +0600</lastBuildDate>

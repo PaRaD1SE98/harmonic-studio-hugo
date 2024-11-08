@@ -2,7 +2,7 @@
 title: "关于我们"
 date: 2018-07-12T18:19:33+06:00
 heading : "欢迎来到和音社官方网站。"
-description : "We are specialized in developing forward-thinking brand identities, websites, illustration and animation for all types of customers. And we do this by bringing our customers through each phase of the design process with us."
-expertise_title: "Expertise"
-expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
+description : "和音社专注于打造独特的音乐作品。通过与您紧密合作，共同参与每一个创作与制作的过程，确保每个细节都与您的需求和梦想完美契合。"
+expertise_title: "我们的专业领域"
+expertise_sectors: ["音/视频录制", "后期制作", "作曲/编曲", "管弦乐队", "音乐会相关", "节目/活动策划", "网络直播"]
 ---

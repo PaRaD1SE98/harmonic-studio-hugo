@@ -1,6 +1,6 @@
 ---
-title       : "Roxo Blog"
+title       : "和音社·动态"
 date        : 2019-12-23T20:17:01+06:00
-description : "By fusing strategy & design we help our partners build their brands, drive business, & stand out from the noise in saturated markets! Follow our blog for the latest case studies and projects."
+description : "关注我们的动态，随时了解和音社的最新消息。"
 ---
 

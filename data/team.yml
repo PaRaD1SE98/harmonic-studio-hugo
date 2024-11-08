@@ -1,15 +1,15 @@
 enable  : true
-title   : Team that makes the difference.
+title   : 专业团队，成就卓越。
 members  :
   - image       : images/team/team-member-one.jpg
-    name        : PABLO ESCOBAR
-    designation : Creative Director
+    name        : 周佳康
+    designation : CEO
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-two.jpg
-    name        : MONTINO RIAU
+    name        : 周航
     designation : Product Manager
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
