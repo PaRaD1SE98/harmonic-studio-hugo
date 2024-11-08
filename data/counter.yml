@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "专业源自于不断的实践与精进。"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "乐器录音"
+    number: "99"
 
-  - title: "Projects Completed"
-    number: "100"
+  - title: "节目策划"
+    number: "10"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "音乐会"
+    number: "5"
 
-  - title: "Telephone Talks"
-    number: "775"
+  - title: "相关咨询"
+    number: "99"

@@ -1,7 +1,7 @@
 ---
 title         : "Contact"
 date          : 2019-12-23T20:17:01+06:00
-heading       : "Don’t be shy. Say <span>Hello.</span>"
-form_heading  : "TELL US ABOUT YOUR PROJECT"
+heading       : "不假思索，立刻行动。"
+form_heading  : "告诉我们您的想法"
 ---
 
