@@ -5,25 +5,25 @@ date: 2019-12-23T15:44:46+06:00
 type: portfolio
 image: "images/resources/peterwangone.jpg"
 category: ["乐器"]
-project_images: ["images/resources/project-details-image-one.jpg", "images/resources/project-details-image-two.jpg"]
+project_images: ["images/resources/peterwangone.jpg"]
 ---
 
-The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+**Peter Wang One** 是由前斯坦威技师汪一老师创立的独立钢琴品牌，致力于打造兼具传统工艺与创新设计的高品质钢琴。创始人以在斯坦威积累的丰富经验为基础，将顶级技艺与独特的声学理念融入到每一台 Peter Wang One 钢琴的制作中。该品牌钢琴具有温暖而富有层次的音色表现，极其精准的键触手感，以及在音质和耐用性上的卓越表现，满足钢琴家和音乐爱好者的专业需求。
 
+#### 主要特点
 
-The watch has the following features:
+1. **专业工艺与创新设计**：
+   - Peter Wang One 的每一台钢琴都经过严格的工艺打造，选用高品质的木材和琴弦，以确保音色的丰富性和持久性。
+   - 创新性设计使其在音色与共鸣方面表现卓越，无论是低音的厚重还是高音的清晰，均能完美呈现。
 
-Time and date displayed on the screen. Current time is in large numbers, date is in small numbers above it.
+2. **斯坦威标准与个性化特点**：
+   - 创始人曾为斯坦威的专业技师，将斯坦威的顶级技艺和品质控制标准带入了 Peter Wang One。
+   - 同时，Peter Wang One 钢琴在音色和设计上融入了创始人的独特审美和个性化风格，使其在钢琴市场上独树一帜。
 
-Light: Pressing the light button on the side of the watch activates a light while the button is pressed. Pressing and holding that button for 3 seconds turns on the light and keeps it on, until the button is held again for 3 seconds or up to 2 hours. After 2 hours, it will automatically turn off.
+3. **精准的键触与丰富的表现力**：
+   - Peter Wang One 钢琴的键触设计精确，反应灵敏，能帮助演奏者更自如地表达情感，适应多种音乐风格。
 
-Alarm. A daily alarm may be set for a given time. The alarm may be enabled or disabled. When the alarm is enabled and the alarm time is reached, the watch will beep fast for 5 seconds, then slowly for 30 seconds, then fast for another 5 seconds. Pressing any button stops the alarm sound (in addition to performing its normal function).
+4. **多样化产品选择**：
+   - Peter Wang One 提供多种型号的钢琴，包括适合音乐厅的演奏型钢琴和适合家庭使用的立式钢琴，满足不同使用场景的需求。
 
-Timer. Timer mode shows a count-up timer that starts at 00:00. When the timer is started, it counts up. Pressing the start/stop button will pause the timer, pressing it again continues counting up. Pressing and holding the button for 3 seconds resets the timer to 00:00 and stops counting.
-
-Mystery answer. After entering this mode, the screen initially displays “ask now”. The user may ask a yes-or-no question aloud and press the start/stop button, this will display a randomly selected answer that is one of the following: “yeah”, “yeah right”, “no”, “no doubt”, “keep trying”, “keep dreaming”. Whenever the display has more than one word, only one word is displayed for 2 seconds, then the other word is displayed for 2 seconds, alternately. The answer is displayed until the user leaves this mode, or he/she presses start/stop again for a new answer. 
-
-
-Note: these strings are for the English version of the watch, we will need to use completely different strings in other countries without reprogramming the logic of the watch.
-
-The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.
+> Peter Wang One 致力于提供优质的钢琴产品，以独特的音色和卓越的手感满足音乐爱好者的需求。其创始人结合斯坦威的精湛工艺与自身的创新设计，为市场带来了一款兼具经典与现代美学的钢琴品牌，是钢琴家和专业人士的理想之选。

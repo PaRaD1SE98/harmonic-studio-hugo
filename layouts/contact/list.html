@@ -63,14 +63,16 @@
 	    {{ end }}
       <br>
 	    {{ if .phone }}
-              <a href="tel:{{ .phone }}" style="color: #000;">{{ .phone }}</a>
+              电话：<a href="tel:{{ .phone }}" style="color: #000;">{{ .phone }}</a>
               <br>
 	    {{ end }}
       <br>
+      微信: Harmonic-Studio
+      <br>
+      <br>
 	    {{ if .email }}
-              <a href="mailto:{{ .email }}" style="color: #000;">{{ .email }}</a>
+              邮箱：<a href="mailto:{{ .email }}" style="color: #000;">{{ .email }}</a>
 	    {{ end }}
-          </p>
         </div>
       </div>
       {{ end }}

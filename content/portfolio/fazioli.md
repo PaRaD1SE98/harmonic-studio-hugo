@@ -3,27 +3,32 @@ title: "FAZIOLI F308"
 url: "resources/fazioli"
 date: 2019-12-23T15:56:43+06:00
 type: portfolio
-image: "images/resources/fazioli.jpg"
+image: "images/resources/piano-f308-nero.jpg"
 category: ["乐器"]
-project_images: ["images/resources/project-details-image-one.jpg", "images/resources/project-details-image-two.jpg"]
+project_images: ["images/resources/piano-f308-nero.jpg"]
 ---
 
-The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+**Fazioli F308** 是 Fazioli 钢琴公司制造的顶级音乐会三角钢琴。这款钢琴专为现代大型演奏厅设计，是一件兼具音质与工艺的艺术珍品。F308 不仅在音色和音量上有出色表现，还融合了创新设计，如独特的第四踏板，使其成为备受钢琴家青睐的高端乐器。
 
+#### 主要特点
 
-The watch has the following features:
+1. 加长的低音域琴弦
+- **低音延展**：F308 的低音琴弦经过特别加长设计，这使得低音更为深沉饱满，富有层次感。
+- **音色表现**：加长的琴弦增强了音色的丰满度和穿透力，使其能够在大型演奏厅中依然清晰传达，适合从低音至高音的全频段表现。
 
-Time and date displayed on the screen. Current time is in large numbers, date is in small numbers above it.
+2. 独特的第四踏板设计
+- **第四踏板**：与传统的三块踏板不同，Fazioli 为 F308 增加了一个独特的第四踏板，位于传统踏板的左侧。
+- **功能**：这块踏板可以缩短击弦距离，从而在不影响音色的情况下减小音量，让演奏者能够在控制音量的同时保持音质一致性。
+- **适用场景**：该踏板特别适合需要轻柔音色、连音、极弱音以及滑奏的乐段，提供了更广泛的表现力。
 
-Light: Pressing the light button on the side of the watch activates a light while the button is pressed. Pressing and holding that button for 3 seconds turns on the light and keeps it on, until the button is held again for 3 seconds or up to 2 hours. After 2 hours, it will automatically turn off.
+3. 精密的工艺与设计
+- **尺寸**：F308 的长度约为 308 厘米（10 英尺 2 英寸），这是 Fazioli 系列中最长的型号，专为需要深度共鸣和音量表现的场所设计。
+- **工艺**：每台 F308 都是由 Fazioli 工匠手工打造，选用优质木材及高质量琴弦，确保音色的纯净和手感的精确。
+- **音色与手感**：Fazioli 一直以细腻的音色和平衡的键触闻名，F308 将这种优点在大型琴体中充分展现，为钢琴家提供顶级的演奏体验。
 
-Alarm. A daily alarm may be set for a given time. The alarm may be enabled or disabled. When the alarm is enabled and the alarm time is reached, the watch will beep fast for 5 seconds, then slowly for 30 seconds, then fast for another 5 seconds. Pressing any button stops the alarm sound (in addition to performing its normal function).
+4. 适用场合与演奏风格
+- **大型音乐会厅**：由于其强大的音量表现和丰富的音色，F308 非常适合现代大型音乐会厅的需求。
+- **多样化的音乐表现**：这款钢琴能够适应从古典到现代的多种风格，尤其是在需要控制音量的细腻表演中展现出优势。
 
-Timer. Timer mode shows a count-up timer that starts at 00:00. When the timer is started, it counts up. Pressing the start/stop button will pause the timer, pressing it again continues counting up. Pressing and holding the button for 3 seconds resets the timer to 00:00 and stops counting.
+> Fazioli F308 是一款结合传统工艺与创新设计的音乐会三角钢琴，特别适合在大型演奏厅中展现其强大的音色表现。其独特的第四踏板设计不仅增加了表现力的多样性，还让演奏者在各种音乐风格中得心应手，是一件真正的艺术珍品。
 
-Mystery answer. After entering this mode, the screen initially displays “ask now”. The user may ask a yes-or-no question aloud and press the start/stop button, this will display a randomly selected answer that is one of the following: “yeah”, “yeah right”, “no”, “no doubt”, “keep trying”, “keep dreaming”. Whenever the display has more than one word, only one word is displayed for 2 seconds, then the other word is displayed for 2 seconds, alternately. The answer is displayed until the user leaves this mode, or he/she presses start/stop again for a new answer. 
-
-
-Note: these strings are for the English version of the watch, we will need to use completely different strings in other countries without reprogramming the logic of the watch.
-
-The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.
