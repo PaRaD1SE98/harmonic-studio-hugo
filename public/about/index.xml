@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>关于我们 on 和音社 | Harmonic Studio</title>
-    <link>http://localhost:1313/about/</link>
+    <link>https://hs-1g2j7jjbe740b88d-1304398895.tcloudbaseapp.com/about/</link>
     <description>Recent content in 关于我们 on 和音社 | Harmonic Studio</description>
     <generator>Hugo</generator>
     <language>zh-hans</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hs-1g2j7jjbe740b88d-1304398895.tcloudbaseapp.com/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
