@@ -1,10 +1,11 @@
 ---
 title: "Peter Wang One"
+url: "resources/peter-wang-one"
 date: 2019-12-23T15:44:46+06:00
-type: portfolio
-image: "images/projects/peterwangone.jpg"
+type: resources
+image: "images/resources/peterwangone.jpg"
 category: ["乐器"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: ["images/resources/project-details-image-one.jpg", "images/resources/project-details-image-two.jpg"]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.

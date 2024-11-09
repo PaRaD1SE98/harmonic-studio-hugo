@@ -13,7 +13,7 @@ summarylength = 25
     weight  = 1
   [[menu.nav]]
     name    = "资源"
-    url     = "portfolio"
+    url     = "resources"
     weight  = 2
   [[menu.nav]]
     name    = "动态"
@@ -74,7 +74,7 @@ summarylength = 25
     heading               = "让热爱化作音符，我们与您共奏一场跨越次元的音乐旅程。"
     tagline               = "和音社 · Harmonic Studio"
     primary_button        = "关于"
-    primary_button_url    = "portfolio"
+    primary_button_url    = "resources"
     secondary_button      = "联系我们"
     secondary_button_url  = "contact"
 
@@ -83,7 +83,7 @@ summarylength = 25
 
   [params.portfolio]
     enable    = true
-    title     = "我们最近的动态"
+    title     = "我们的最新动态"
     subtitle  = "乐器录音，音视频制作，乐团演奏，活动策划"
     view_project = "查看详情"
     more_works = "更多动态"
@@ -96,7 +96,7 @@ summarylength = 25
     primary_button      = "联系我们"
     primary_button_url  = "contact"
     secondary_button    = "了解更多"
-    secondary_button_url = "portfolio"
+    secondary_button_url = "resources"
 
   [params.footer]
     params.footer.qr_print = false
@@ -114,9 +114,9 @@ summarylength = 25
           url  = "about"
         [[params.footer.sitemap.link]]
           name = "资源"
-          url  = "portfolio"
+          url  = "resources"
         [[params.footer.sitemap.link]]
-          name = "活动"
+          name = "动态"
           url  = "blog"
         [[params.footer.sitemap.link]]
           name = "联系我们"

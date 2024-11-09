@@ -1,10 +1,11 @@
 ---
 title: "副录音室"
+url: "resources/sub-studio"
 date: 2019-12-23T15:58:10+06:00
-type: portfolio
-image: "images/projects/111-main-room.jpeg"
+type: resources
+image: "images/resources/111-main-room.jpeg"
 category: ["环境"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: ["images/resources/project-details-image-one.jpg", "images/resources/project-details-image-two.jpg"]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
