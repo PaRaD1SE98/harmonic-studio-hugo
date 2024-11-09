@@ -2,7 +2,7 @@
 title: "FAZIOLI F308"
 url: "resources/fazioli"
 date: 2019-12-23T15:56:43+06:00
-type: resources
+type: portfolio
 image: "images/resources/fazioli.jpg"
 category: ["乐器"]
 project_images: ["images/resources/project-details-image-one.jpg", "images/resources/project-details-image-two.jpg"]

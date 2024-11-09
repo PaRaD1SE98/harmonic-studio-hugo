@@ -2,7 +2,7 @@
 title: "Peter Wang One"
 url: "resources/peter-wang-one"
 date: 2019-12-23T15:44:46+06:00
-type: resources
+type: portfolio
 image: "images/resources/peterwangone.jpg"
 category: ["乐器"]
 project_images: ["images/resources/project-details-image-one.jpg", "images/resources/project-details-image-two.jpg"]

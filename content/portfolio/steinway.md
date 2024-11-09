@@ -2,7 +2,7 @@
 title: "Steinway & Sons D-274"
 url: "resources/steinway"
 date: 2019-12-23T15:55:44+06:00
-type: resources
+type: portfolio
 image: "images/resources/steinway.jpg"
 category: ["乐器"]
 project_images: ["images/resources/project-details-image-one.jpg", "images/resources/project-details-image-two.jpg"]

@@ -2,7 +2,7 @@
 title: "主录音室"
 url: "resources/main-studio"
 date: 2019-12-23T20:56:42+06:00
-type: resources
+type: portfolio
 image: "images/resources/main-room.jpg"
 category: ["环境"]
 project_images: ["images/resources/project-details-image-one.jpg", "images/resources/project-details-image-two.jpg"]

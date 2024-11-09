@@ -126,16 +126,16 @@ summarylength = 25
         title   = "社交媒体"
         [[params.footer.social.link]]
           name = "Bilibili"
-          url  = "#"
+          url  = "https://space.bilibili.com/921437"
         [[params.footer.social.link]]
           name = "微博"
-          url  = "#"
+          url  = "https://weibo.com/u/1946098627"
         [[params.footer.social.link]]
           name = "小红书"
-          url  = "#"
+          url  = "https://www.xiaohongshu.com/user/profile/61f2b00c00000000020226b1"
         [[params.footer.social.link]]
           name = "Youtube"
-          url  = "#"
+          url  = "https://www.youtube.com/@JamesChouAnimePiano"
       # Footer Service
       #[params.footer.service]
       #  title       = "We help brands:"
