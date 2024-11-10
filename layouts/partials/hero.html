@@ -6,8 +6,11 @@
       <div class="row">
         <div class="col-lg-10 mx-auto">
           <div class="site-hero-content text-center">
+            <h1 class="text-white mb-2">
+              {{ .heading_1 }}
+            </h1>
             <h1 class="text-white mb-4">
-              {{ .heading }}
+              {{ .heading_2 }}
             </h1>
             <h3 class="text-white mb-5">{{ .tagline }}</h1>
             <ul class="site-hero-content-buttons">
@@ -34,7 +37,7 @@
         </div>
       </div>
     </div>
-    <a href="#counter" class="site-hero-scroll scroll-to">
+    <a href="#project.site-project" class="site-hero-scroll scroll-to">
       <img src="{{ "images/arrow-down.svg" | absURL }}" alt="arrow-down">
     </a>
   </section>
