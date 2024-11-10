@@ -25,6 +25,8 @@
   
   <link rel="shortcut icon" href="https://hs-1g2j7jjbe740b88d-1304398895.tcloudbaseapp.com/images/favicon.png" type="image/x-icon" />
   <link rel="icon" href="https://hs-1g2j7jjbe740b88d-1304398895.tcloudbaseapp.com/images/favicon.ico" type="image/x-icon" />
+  
+  <script src="//api.map.baidu.com/api?type=webgl&v=1.0&ak=ziYg3IGHYkSYzOqMWvGwQ2qnNtuZghVD"></script>
 </head>
 <body><nav class="navbar navbar-expand-lg site-navigation">
   <div class="container">
@@ -107,11 +109,30 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-5">
-        <h1 class="site-contact-title">
-          不假思索，立刻行动。
-        </h1>
+        <h3 class="site-contact-title mb-4">
+          不假思索，立刻行动
+        </h3>
+        <div id="baidu-map-container" style="height: 300px;"></div>
+        <script>
+          var map = new BMapGL.Map('baidu-map-container'); 
+          map.centerAndZoom(new BMapGL.Point(121.499836,31.304975), 15); 
+          map.enableScrollWheelZoom(true); 
+          var point = new BMapGL.Point(121.499836,31.304975);
+          var marker = new BMapGL.Marker(point);
+          map.addOverlay(marker);
+          
+          var opts = {
+              width: 200,
+              height: 60,
+              title: '和音社'
+          };
+          var infoWindow = new BMapGL.InfoWindow('地址：上海市杨浦区纪念路8号财大科技园1号楼109室', opts);
+          
+          marker.addEventListener('click', function () {
+            map.openInfoWindow(infoWindow, point); 
+          });
+        </script>
       </div>
-      
       
       <div class="col-lg-6 ml-auto">
         <div class="site-contact-form">

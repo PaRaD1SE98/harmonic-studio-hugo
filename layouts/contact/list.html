@@ -3,54 +3,30 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-5">
-        <h1 class="site-contact-title">
+        <h3 class="site-contact-title mb-4">
           {{ .Params.heading | safeHTML }}
-        </h1>
+        </h3>
+        <div id="baidu-map-container" style="height: 300px;"></div>
+        <script>
+          var map = new BMapGL.Map('baidu-map-container'); // 创建Map实例
+          map.centerAndZoom(new BMapGL.Point(121.499836,31.304975), 15); // 初始化地图,设置中心点坐标和地图级别
+          map.enableScrollWheelZoom(true); // 开启鼠标滚轮缩放
+          var point = new BMapGL.Point(121.499836,31.304975);
+          var marker = new BMapGL.Marker(point);
+          map.addOverlay(marker);
+          // 创建信息窗口
+          var opts = {
+              width: 200,
+              height: 60,
+              title: '和音社'
+          };
+          var infoWindow = new BMapGL.InfoWindow('地址：上海市杨浦区纪念路8号财大科技园1号楼109室', opts);
+          // 点标记添加点击事件
+          marker.addEventListener('click', function () {
+            map.openInfoWindow(infoWindow, point); // 开启信息窗口
+          });
+        </script>
       </div>
-      {{/* <div class="col-lg-6 ml-auto">
-        <div class="site-contact-form">
-          <h4>{{ .Params.form_heading }}</h4>
-          <form id="contact-form" action="{{ .Site.Params.fabform }}" method="post">
-            <div class="row">
-              <div class="col-lg-6">
-                <input type="text" class="form-control" name="first-name" id="first-name" placeholder="{{ .Site.Params.contactForm.placeholder_first_name }}" required>
-              </div>
-              <div class="col-lg-6">
-                <input type="text" class="form-control" name="last-name" id="last-name" placeholder="{{ .Site.Params.contactForm.placeholder_last_name }}" required>
-              </div>
-              <div class="col-lg-6">
-                <input type="email" class="form-control" name="email" id="email" placeholder="{{ .Site.Params.contactForm.placeholder_email }}" required>
-              </div>
-              <div class="col-lg-6">
-                <div class="select-wrapper">
-                  <select class="form-control" id="projectType" name="project-type" required>
-                    <option value="" selected disabled hidden>{{ .Site.Params.contactForm.placeholder_project_type }}</option>
-                    {{ range .Site.Params.contactForm.projectType }}
-                    <option value="{{ .value }}">{{ .title }}</option>
-                    {{ end }}
-                  </select>
-                </div>
-              </div>
-              <div class="col-12">
-                <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="{{ .Site.Params.contactForm.placeholder_about_the_project }}"></textarea>
-              </div>
-              <div class="col-12">
-                <button formtarget="_blank" type="submit" class="btn btn-primary" id="contact-form-button">
-                  <span class="btn-area">
-                    <span data-text="{{ .Site.Params.contactForm.send_message }}">
-                      {{ .Site.Params.contactForm.send_message }}
-                    </span>
-                  </span>
-                </button>
-              </div>
-              <p id="contact-form-status"></p>
-            </div>
-          </form>
-          <p class="contact-form-generator">
-          <a href="https://fabform.io/" target="_blank">form backend service</a>
-          </p>
-        </div>
-      </div> */}}
       {{ with .Site.Params.footer.contactInfo }}
       <div class="col-lg-6 ml-auto">
         <div class="site-contact-form">
