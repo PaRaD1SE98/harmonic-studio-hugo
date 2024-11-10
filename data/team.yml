@@ -4,41 +4,32 @@ members  :
   - image       : images/team/boss.jpg
     name        : 周佳康
     designation : CEO
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    bilibili    : https://space.bilibili.com/921437
+    youtube     : https://www.youtube.com/@JamesChouAnimePiano
 
   - image       : images/team/team-member-酒叔.jpg
     name        : 周航
     designation : 艺术总监
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    bilibili    : https://space.bilibili.com/1574650
+    youtube     : https://www.youtube.com/@drunksashimi7347
 
   - image       : images/team/team-member-呆胶布.jpg
     name        : 苏景琦
     designation : 运营
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    bilibili    : https://space.bilibili.com/3080414
 
   - image       : images/team/team-member-天堂.jpg
     name        : 李典京
     designation : 网站开发
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    bilibili    : https://space.bilibili.com/2941754
+    youtube     : https://www.youtube.com/@PaRaD1SE98
 
   - image       : images/team/team-member-航道.jpg
     name        : 吴杰晟
     designation : 视频摄制
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    bilibili    : https://space.bilibili.com/2432930
 
   - image       : images/team/team-member-ho.jpg
     name        : 和音社管弦乐团
     designation : 艺术家
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    bilibili    : https://space.bilibili.com/603201051

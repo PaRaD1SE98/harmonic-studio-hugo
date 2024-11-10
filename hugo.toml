@@ -74,7 +74,7 @@ summarylength = 25
     heading               = "让热爱化作音符，我们与您共奏一场跨越次元的音乐旅程。"
     tagline               = "和音社 · Harmonic Studio"
     primary_button        = "关于"
-    primary_button_url    = "resources"
+    primary_button_url    = "about"
     secondary_button      = "联系我们"
     secondary_button_url  = "contact"
 
