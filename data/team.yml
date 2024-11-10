@@ -29,9 +29,16 @@ members  :
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
+  - image       : images/team/team-member-航道.jpg
+    name        : 吴杰晟
+    designation : 视频摄制
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
   - image       : images/team/team-member-ho.jpg
     name        : 和音社管弦乐团
-    designation : Artists
+    designation : 艺术家
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/

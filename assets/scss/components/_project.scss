@@ -8,9 +8,10 @@
     &-thumb{
       max-height: 700px;
       overflow: hidden;
-      padding-bottom: 200px;
+      padding-bottom: 150px;
       @include tablet{
-        padding-bottom: 150px;
+        max-height: 500px;
+        padding-bottom: 100px;
       }
       img{
         width: 100%;
@@ -23,10 +24,9 @@
       padding: 45px 50px;
       bottom: 0;
       transition: all .3s $site-ease;
-      @include tablet{
-        padding: 30px;
-        padding-bottom: 75px;
-      }
+      @include mobile{
+          padding: 15px 25px 40px;
+        }
       span{
         font-family: $secondary-font;
         color: $primary-color;
@@ -53,9 +53,9 @@
         opacity: 0;
         transform: translateY(20px);
         transition: all 0.3s $site-ease;
-        @include tablet{
-          transform: translateY(0);
-          opacity: 1;
+        letter-spacing: 2px;
+        @include mobile{
+          transform: translateY(22px);
         }
       }
     }
