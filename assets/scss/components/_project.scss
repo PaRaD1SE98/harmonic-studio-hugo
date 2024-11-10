@@ -6,6 +6,12 @@
     margin-bottom: 30px;
     transition: all 0.3s ease-in;
     &-thumb{
+      max-height: 700px;
+      overflow: hidden;
+      padding-bottom: 200px;
+      @include tablet{
+        padding-bottom: 150px;
+      }
       img{
         width: 100%;
       }

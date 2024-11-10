@@ -1,5 +1,5 @@
 baseURL       = "https://hs-1g2j7jjbe740b88d-1304398895.tcloudbaseapp.com/"
-languageCode  = "zh-hans"
+languageCode  = "zh-cn"
 title         = "和音社 | Harmonic Studio"
 theme         = "roxo-hugo"
 summarylength = 25
